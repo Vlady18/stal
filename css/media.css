@@ -1,0 +1,141 @@
+@media all and (max-width: 1100px) {
+  /* line 2, /home/vinnope/workspace/steel/sass/media.sass */
+  .section5 .section5_container .ver_line {
+    width: 80%;
+  }
+  /* line 4, /home/vinnope/workspace/steel/sass/media.sass */
+  .section5 .section5_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media all and (max-width: 950px) {
+  /* line 13, /home/vinnope/workspace/steel/sass/media.sass */
+  .whywe {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  /* line 17, /home/vinnope/workspace/steel/sass/media.sass */
+  .section3 {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  /* line 22, /home/vinnope/workspace/steel/sass/media.sass */
+  .section3 li {
+    text-align: left;
+  }
+  /* line 24, /home/vinnope/workspace/steel/sass/media.sass */
+  .section3 .section3_left {
+    width: 100%;
+  }
+  /* line 26, /home/vinnope/workspace/steel/sass/media.sass */
+  .section3 .section3_left .wrapper {
+    margin: 0 auto;
+    padding: 0;
+  }
+  /* line 29, /home/vinnope/workspace/steel/sass/media.sass */
+  .section3 .section3_right {
+    padding: 0;
+  }
+  /* line 31, /home/vinnope/workspace/steel/sass/media.sass */
+  .section5 .section5_container .section5_content {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  /* line 35, /home/vinnope/workspace/steel/sass/media.sass */
+  .section5 .section5_container .section5_content .wrapper h2 {
+    margin-top: 30px;
+  }
+}
+
+@media all and (max-width: 600px) {
+  /* line 43, /home/vinnope/workspace/steel/sass/media.sass */
+  #second .main_bg h2 {
+    font-size: 20px;
+  }
+  /* line 45, /home/vinnope/workspace/steel/sass/media.sass */
+  #second .main_bg ul li {
+    font-size: 12px;
+  }
+  /* line 47, /home/vinnope/workspace/steel/sass/media.sass */
+  #second .main_bg ul {
+    padding-left: 10px;
+  }
+  /* line 49, /home/vinnope/workspace/steel/sass/media.sass */
+  .feedback_form {
+    flex-direction: column;
+  }
+  /* line 51, /home/vinnope/workspace/steel/sass/media.sass */
+  .feedback_form .feedback_form_left {
+    border-right: 3px solid #a4b7c8 !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  /* line 56, /home/vinnope/workspace/steel/sass/media.sass */
+  .section1_container .whywe .whywe__right h2 {
+    font-size: 17px;
+  }
+  /* line 58, /home/vinnope/workspace/steel/sass/media.sass */
+  .section1_container h2 {
+    font-size: 17px;
+  }
+  /* line 60, /home/vinnope/workspace/steel/sass/media.sass */
+  .section1_container .section1_menu {
+    display: block;
+  }
+  /* line 62, /home/vinnope/workspace/steel/sass/media.sass */
+  .section1_container .section1_menu li.wrapper {
+    display: none !important;
+  }
+  /* line 64, /home/vinnope/workspace/steel/sass/media.sass */
+  .section2 .examples .examples_container .examples_list {
+    justify-content: center;
+  }
+  /* line 66, /home/vinnope/workspace/steel/sass/media.sass */
+  .section3 .section3_left .wrapper h2 {
+    font-size: 20px;
+  }
+  /* line 68, /home/vinnope/workspace/steel/sass/media.sass */
+  .section3 .section3_left .wrapper p {
+    font-size: 11px;
+  }
+  /* line 70, /home/vinnope/workspace/steel/sass/media.sass */
+  .section3 .section3_left .wrapper ul li {
+    font-size: 14px;
+  }
+  /* line 72, /home/vinnope/workspace/steel/sass/media.sass */
+  .section3 .section3_left .wrapper {
+    width: auto;
+  }
+  /* line 74, /home/vinnope/workspace/steel/sass/media.sass */
+  .section3 .section3_right img {
+    width: 80%;
+  }
+  /* line 76, /home/vinnope/workspace/steel/sass/media.sass */
+  .section4 .section4_container .list_type {
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media all and (max-width: 430px) {
+  /* line 81, /home/vinnope/workspace/steel/sass/media.sass */
+  .section5 .section5_container .section5_content .lesnitca {
+    width: 320px;
+    height: 216px;
+  }
+  /* line 86, /home/vinnope/workspace/steel/sass/media.sass */
+  #second .main_bg h2 {
+    padding-left: 25px;
+  }
+}
+
+/*# sourceMappingURL=../css/media.map */
